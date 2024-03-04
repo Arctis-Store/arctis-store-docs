@@ -4,15 +4,13 @@ export default defineAppConfig({
     description: 'Arctis Store Documentation',
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
-      discord: 'dc.arctis-store.pl',
       github: 'Arctis-Store/arctis-store-docs',
-    },
-    github: {
-      dir: '.starters/default/content',
-      branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
-      edit: true
+      youtube: 'https://www.youtube.com/channel/UCNp1rijbceQquFAdLy67x-g',
+      [discord]: {
+        label: 'Discord',
+        icon: 'https://cdn.discordapp.com/attachments/1206034530432196700/1214281120418373682/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?ex=65f88a6b&is=65e6156b&hm=21075e1cc288781f5461768ef5ef3a5c259ed18db6250a818e1936f5ea1776c3&',
+        href: 'dc.arctis-store.pl'
+      }
     },
     aside: {
       level: 0,
@@ -31,7 +29,7 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        icon: 'https://cdn.discordapp.com/attachments/1206034530432196700/1213190963133157416/logostore.png?ex=65f49321&is=65e21e21&hm=6e7fdb444620cbfccbd1b5ef03702e813e99ebda277e756c2f0c4ae1a329bfc1&',
+        icon: 'IconDocus',
         text: 'Arctis Store',
         href: 'https://arctis-store.pl'
       },
