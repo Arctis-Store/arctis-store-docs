@@ -1,3 +1,5 @@
+import { DiscordIcon } from 'public/img/discord.png';
+
 export default defineAppConfig({
   docus: {
     title: 'Arctis',
@@ -8,7 +10,7 @@ export default defineAppConfig({
       youtube: 'https://youtube.com/@ArctisStore',
       ['discord']: {
         label: 'Discord',
-        icon: 'discordiconbyqu',
+        icon: 'DiscordIcon',
         href: 'dc.arctis-store.pl'
       }
     },
