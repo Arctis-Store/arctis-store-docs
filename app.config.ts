@@ -8,7 +8,7 @@ export default defineAppConfig({
       youtube: 'https://youtube.com/@ArctisStore',
       ['discord']: {
         label: 'Discord',
-        icon: 'IconDocus',
+        icon: 'discordiconbyqu',
         href: 'dc.arctis-store.pl'
       }
     },
