@@ -6,7 +6,7 @@ export default defineAppConfig({
     socials: {
       github: 'Arctis-Store/arctis-store-docs',
       youtube: 'https://www.youtube.com/channel/UCNp1rijbceQquFAdLy67x-g',
-      [discord]: {
+      ['discord']: {
         label: 'Discord',
         icon: 'https://cdn.discordapp.com/attachments/1206034530432196700/1214281120418373682/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?ex=65f88a6b&is=65e6156b&hm=21075e1cc288781f5461768ef5ef3a5c259ed18db6250a818e1936f5ea1776c3&',
         href: 'dc.arctis-store.pl'
