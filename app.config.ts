@@ -2,13 +2,13 @@ export default defineAppConfig({
   docus: {
     title: 'Arctis',
     description: 'Arctis Store Documentation',
-    image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
+    image: 'https://cdn.discordapp.com/attachments/1206034530432196700/1213921870764703886/banner.png?ex=65f73bd7&is=65e4c6d7&hm=f7faed0dbfeb42f62a049294f879b7aafba74b2d1214c3bbd67a17e7a6435f6b&',
     socials: {
       github: 'Arctis-Store/arctis-store-docs',
-      youtube: 'https://www.youtube.com/channel/UCNp1rijbceQquFAdLy67x-g',
+      youtube: 'https://youtube.com/@ArctisStore',
       ['discord']: {
         label: 'Discord',
-        icon: 'https://cdn.discordapp.com/attachments/1206034530432196700/1214281120418373682/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?ex=65f88a6b&is=65e6156b&hm=21075e1cc288781f5461768ef5ef3a5c259ed18db6250a818e1936f5ea1776c3&',
+        icon: 'IconDocus',
         href: 'dc.arctis-store.pl'
       }
     },
