@@ -1,3 +1,3 @@
 <template>
-  <img width="120" src="/img/arctisstore.png"/>
+  <img width="120" src="/img/logostore.png"/>
 </template>
