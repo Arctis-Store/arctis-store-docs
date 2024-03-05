@@ -6,7 +6,7 @@ export default defineAppConfig({
     socials: {
       ['tebex']: {
         label: 'Tebex',
-        icon: 'img/discord.png',
+        icon: 'tebex',
         href: 'https://arctis-store.pl'
       },
       ['discord']: {
