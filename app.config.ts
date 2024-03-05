@@ -4,7 +4,11 @@ export default defineAppConfig({
     description: 'Arctis Store Documentation',
     image: 'https://cdn.discordapp.com/attachments/1206034530432196700/1213921870764703886/banner.png?ex=65f73bd7&is=65e4c6d7&hm=f7faed0dbfeb42f62a049294f879b7aafba74b2d1214c3bbd67a17e7a6435f6b&',
     socials: {
-      tebex: 'https://arctis-store.pl',
+      ['tebex']: {
+        label: 'Tebex',
+        icon: 'ic:tebex',
+        href: 'https://arctis-store.pl'
+      },
       ['discord']: {
         label: 'Discord',
         icon: 'ic:baseline-discord',
@@ -29,7 +33,7 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        icon: 'tebex',
+        icon: 'logo',
         text: 'Arctis Store',
         href: 'https://arctis-store.pl'
       },
