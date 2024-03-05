@@ -1,2 +1,4 @@
-title: 'My awesome directory'
-navigation.icon: '📁'
+{
+  "title": "My awesome directory",
+  "icon": "📁",
+}
