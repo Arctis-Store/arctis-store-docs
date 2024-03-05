@@ -11,7 +11,7 @@ export default defineAppConfig({
       },
       ['discord']: {
         label: 'Discord',
-        icon: 'tebexIcon',
+        icon: 'logos:tebex-icon',
         href: 'http://dc.arctis-store.pl'
       },
       youtube: 'https://youtube.com/@ArctisStore',
