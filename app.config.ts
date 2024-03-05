@@ -18,11 +18,13 @@ export default defineAppConfig({
     },
     tebexIcon: {
       size: '1em',
+      class: 'icon',
       aliases: {
-      github: 'carbon:logo-github',
-      tebex: 'logos:tebex-icon',
-      rocket: 'fluent-emoji:rocket',
-      nxt: 'tebexIcon'
+        github: 'carbon:logo-github',
+        tebex: 'logos:tebex-icon',
+        rocket: 'fluent-emoji:rocket',
+        nxt: 'tebexIcon'
+      }
     },
     aside: {
       level: 0,
