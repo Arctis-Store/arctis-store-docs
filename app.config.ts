@@ -8,7 +8,7 @@ export default defineAppConfig({
       ['discord']: {
         label: 'Discord',
         icon: 'ic:baseline-discord',
-        href: 'www.dc.arctis-store.pl'
+        href: 'https://dc.arctis-store.pl'
       },
       youtube: 'https://youtube.com/@ArctisStore',
     },
