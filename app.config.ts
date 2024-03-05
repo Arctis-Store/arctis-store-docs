@@ -11,7 +11,7 @@ export default defineAppConfig({
       },
       ['discord']: {
         label: 'Discord',
-        icon: '/public/img/discord.png',
+        icon: 'tebex',
         href: 'http://dc.arctis-store.pl'
       },
       youtube: 'https://youtube.com/@ArctisStore',
@@ -33,7 +33,7 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        src: 'img/discord.png',
+        icon: 'tebex',
         text: 'Arctis Store',
         href: 'https://arctis-store.pl'
       },
