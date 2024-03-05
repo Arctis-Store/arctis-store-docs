@@ -10,7 +10,7 @@ export default defineAppConfig({
       youtube: 'https://youtube.com/@ArctisStore',
       ['discord']: {
         label: 'Discord',
-        icon: 'discord',
+        icon: 'ic:baseline-discord',
         href: 'dc.arctis-store.pl'
       }
     },
