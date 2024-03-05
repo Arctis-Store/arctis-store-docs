@@ -4,27 +4,12 @@ export default defineAppConfig({
     description: 'Arctis Store Documentation',
     image: 'https://cdn.discordapp.com/attachments/1206034530432196700/1213921870764703886/banner.png?ex=65f73bd7&is=65e4c6d7&hm=f7faed0dbfeb42f62a049294f879b7aafba74b2d1214c3bbd67a17e7a6435f6b&',
     socials: {
-      ['tebex']: {
-        label: 'Tebex',
-        icon: 'tebex',
-        href: 'https://arctis-store.pl'
-      },
       ['discord']: {
         label: 'Discord',
-        icon: 'logos:tebex-icon',
+        icon: 'ic:baseline-discord',
         href: 'http://dc.arctis-store.pl'
       },
       youtube: 'https://youtube.com/@ArctisStore',
-    },
-    tebexIcon: {
-      size: '1em',
-      class: 'icon',
-      aliases: {
-        github: 'carbon:logo-github',
-        tebex: 'logos:tebex-icon',
-        rocket: 'fluent-emoji:rocket',
-        nxt: 'tebexIcon'
-      }
     },
     aside: {
       level: 0,
@@ -43,7 +28,7 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        icon: 'tebexIcon',
+        icon: 'material-symbols-light:storefront',
         text: 'Arctis Store',
         href: 'https://arctis-store.pl'
       },
