@@ -23,7 +23,7 @@ export default defineAppConfig({
       tebex: 'logos:tebex-icon',
       rocket: 'fluent-emoji:rocket',
       nxt: 'tebexIcon'
-    }
+    },
     aside: {
       level: 0,
       collapsed: false,
